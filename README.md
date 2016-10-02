@@ -1,3 +1,3 @@
-Hello
-My name is Nick
+Hello,
+My name is Nick.
 I love github
